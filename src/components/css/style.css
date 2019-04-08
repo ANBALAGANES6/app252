@@ -1,0 +1,71 @@
+.global-volunter{color: rgb(255, 255, 255);
+    
+    background: url(https://s3-eu-west-1.amazonaws.com/cdn.expa.aiesec.org/icons-v2/gv-logo.png) center center / cover;
+    width: 300px;
+    height: 95px;
+    left: 62px;
+    position: relative;}
+
+    .login-card-heading    {
+        font-weight: bold;
+        font-size: 12px;
+    }
+.card-action-btn{
+    text-align: center;
+}    
+.mdl-card__supporting-text{
+    padding: 0px 16px !important;
+}
+.mdl-grid{
+    padding: 0px !important;
+}
+.location-info{
+    position: relative;
+    left: 7em;
+}
+.applied-status{
+    position: relative;
+    left: 10em;
+    padding-top: 5px;
+}
+.prjct-color{
+    background-color: #037ef3
+}
+.location-btn{
+    color: #343a40;
+    background-color: #f8f9fa;
+    text-transform: none;
+    font-weight: bold;
+}
+.social-icons{
+    cursor: pointer;
+    padding-right: 5px;
+    font-size: 25px;
+}
+
+.sdg-icon{
+    width: 100px;
+    border: 1px solid #9e9e9e;
+}
+
+.pre-req-btn{
+    height: 45px;
+    text-transform: none;
+    background-color: #037ef3 !important;
+    line-height: 2px;
+    padding: 5px;
+    font-size: 14px;
+    color:#fafafa;
+}
+.pre-req-btn > button{
+    background-color: #fafafa!important;
+    color: #037ef3 !important;
+    text-transform: none;
+    left: 7px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+body:scroll(top: 50px) #myid  {
+background:#ff4081 !important;
+}
